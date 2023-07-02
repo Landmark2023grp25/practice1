@@ -1,0 +1,4 @@
+amaka:x:1004:1009::/home/amaka:/bin/bash
+apache:x:48:48:Apache:/usr/share/httpd:/sbin/nologin
+landmark:x:1005:1010::/home/landmark:/bin/bash
+nginx:x:992:992:Nginx web server:/var/lib/nginx:/sbin/nologin
